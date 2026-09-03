@@ -1,0 +1,161 @@
+---
+title: "Commentary"
+pagetitle: "Commentary — Op-eds, Essays, Podcasts & TV — Partha Chatterjee"
+description: "A decade of op-eds, essays, podcasts, and broadcast commentary by Partha Chatterjee on the economy, policy, and the future of higher education."
+page-layout: full
+toc: false
+---
+
+::: {.lead}
+I write and speak for a wider public — op-eds, essays, podcasts, and television — on the economy, on policy, and on the future of education. Browse by topic below.
+:::
+
+```{=html}
+<div class="cat-filter">
+  <button class="cat-chip active" data-cat="all">All</button>
+  <button class="cat-chip" data-cat="growth">Growth &amp; jobs</button>
+  <button class="cat-chip" data-cat="budgets">Budgets &amp; policy</button>
+  <button class="cat-chip" data-cat="money">Money &amp; inflation</button>
+  <button class="cat-chip" data-cat="trade">Trade &amp; the world</button>
+  <button class="cat-chip" data-cat="highered">Higher education</button>
+  <button class="cat-chip" data-cat="tech">Tech &amp; society</button>
+</div>
+
+<!-- Featured -->
+<a class="post-featured" href="https://economictimes.indiatimes.com/opinion/et-commentary/budget-2024-for-sustained-inclusive-growth-goi-must-press-down-on-twin-pedals/articleshow/107271349.cms" target="_blank" rel="noopener">
+  <div class="pf-cover" style="background-image:url('assets/press-capital-idea.jpg')"></div>
+  <div class="pf-body">
+    <span class="pc-type t-oped">Op-ed · The Economic Times</span>
+    <h2>FM, It's Truly a Capital Idea</h2>
+    <p class="pf-src">For sustained, inclusive growth, the government must press down on both pedals — physical <em>and</em> human capital. · 2024</p>
+  </div>
+</a>
+
+<div class="post-grid">
+  <a class="post-card" data-cat="trade" href="https://www.fortuneindia.com/opinion/the-hedge-thats-quietly-breaking/148683" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">The Hedge That&#x27;s Quietly Breaking</span><span class="pc-src">Fortune India · 2026</span></div></a>
+  <a class="post-card" data-cat="growth" href="https://businessworld.in/article/excluding-msmes-from-centres-internship-scheme-a-missed-opportunity-experts-534722" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/question-of-existence-liquidity-solvency-and-pol.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Excluding MSMEs from the Internship Scheme: A Missed Opportunity</span><span class="pc-src">Business World · 2024</span></div></a>
+
+
+
+  <a class="post-card" data-cat="highered" href="https://www.hindustantimes.com/ht-insight/future-tech/ai-makes-learning-faster-but-is-it-making-thinking-harder-101778502256696.html" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/new-education-policy-gives-pride-of-place-to-res.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">AI Makes Learning Faster — But Is It Making Thinking Harder?</span><span class="pc-src">Hindustan Times · 2026</span></div></a>
+
+  <a class="post-card" data-cat="growth" href="https://youtu.be/xwYX_l0fFCc" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/lives-and-livelihood-an-exit-strategy-from-lockd.jpg')"></div><div class="pc-body"><span class="pc-type t-media">Podcast</span><span class="pc-title">How India&#x27;s Economy Works</span><span class="pc-src">with Puja Mehra · 2026</span></div></a>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/question-of-existence-liquidity-solvency-and-pol.jpg')"></div><div class="pc-body"><span class="pc-type t-media">TV</span><span class="pc-title">India&#x27;s Startup Gap with China is Structural</span><span class="pc-src">CNBC-TV18 · 2025</span></div></div>
+
+  <a class="post-card" data-cat="budgets" href="https://www.livemint.com/opinion/online-views/msme-risk-management-inclusive-economic-growth-employment-generation-equity-capital-private-investment-11721370010574.html" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/small-business-risk-sharing-can-deliver-inclusiv.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Risk Sharing Can Deliver Inclusive Economic Growth</span><span class="pc-src">Mint · 2025</span></div></a>
+
+  <a class="post-card" data-cat="budgets" href="https://www.financialexpress.com/budget/budget-2025-a-balancing-act-3718744/" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/budget-2023-will-boost-short-term-growth-short-o.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Budget 2025: The Balancing Act</span><span class="pc-src">Financial Express · 2025</span></div></a>
+
+  <a class="post-card" data-cat="budgets" href="https://www.firstpost.com/business/reconciling-growth-and-sustainability-what-union-budget-2025-must-deliver-13856936.html" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/budget-2022-needed-a-balancing-act.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Budget 2025: Growth and Sustainability</span><span class="pc-src">Firstpost · 2025</span></div></a>
+
+  <a class="post-card" data-cat="trade" href="https://www.financialexpress.com/opinion/tariff-war-indias-choices-amp-world-order/3989481/" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Tariff War: India&#x27;s Choices and the World Order</span><span class="pc-src">Financial Express · 2025</span></div></a>
+
+  <a class="post-card" data-cat="trade" href="https://360info.org/trump-and-the-changing-global-order/" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Trump and the Global Order</span><span class="pc-src">360info · 2025</span></div></a>
+
+  <a class="post-card" data-cat="tech" href="https://www.thehindu.com/podcast/in-focus-podcast-decoding-the-2025-nobel-in-economics-how-new-ideas-crush-the-old-and-fuel-growth/article70184788.ece" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/the-promise-and-peril-of-generative-ai-should-re.jpg')"></div><div class="pc-body"><span class="pc-type t-media">Podcast</span><span class="pc-title">Decoding the 2025 Nobel in Economics</span><span class="pc-src">The Hindu · In Focus · 2025</span></div></a>
+
+  <a class="post-card" data-cat="trade" href="https://youtube.com/watch?v=Qh3sYq-tNc0" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-media">TV</span><span class="pc-title">Trump&#x27;s Tariffs and India&#x27;s Choices</span><span class="pc-src">Business Today · BBC News · 2025</span></div></a>
+
+  <div class="post-card" data-cat="highered"><div class="pc-cover" style="background-image:url('assets/blog/new-education-policy-gives-pride-of-place-to-res.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">The 2025 Budget and India&#x27;s Education Imperative</span><span class="pc-src">2025</span></div></div>
+
+  <div class="post-card" data-cat="trade"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-media">TV</span><span class="pc-title">Is BRICS+ Anti-American?</span><span class="pc-src">BBC News · 2025</span></div></div>
+
+  <a class="post-card" data-cat="money" href="https://www.cnbctv18.com/world/global-rate-world-economy-rate-cut-inflation-growth-uncertainty-18768371.htm" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/this-is-why-central-banks-unlikely-to-cut-rates-.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Why Central Banks Are Unlikely to Cut Rates So Soon</span><span class="pc-src">CNBC-TV18 · 2024</span></div></a>
+
+  <div class="post-card" data-cat="highered"><div class="pc-cover" style="background-image:url('assets/blog/new-education-policy-gives-pride-of-place-to-res.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">India Spends Too Little on Education</span><span class="pc-src">2024</span></div></div>
+
+  <a class="post-card" data-cat="money" href="assets/press-fed-rates.jpg" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/press-fed-rates.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Why the Fed is Right in Hiking Rates</span><span class="pc-src">The Hindu BusinessLine · 2023</span></div></a>
+
+  <a class="post-card" data-cat="growth" href="assets/press-bbc-gdp.jpg" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/press-bbc-gdp.jpg')"></div><div class="pc-body"><span class="pc-type t-media">TV</span><span class="pc-title">India&#x27;s GDP, Live on Air</span><span class="pc-src">BBC World News · 2023</span></div></a>
+
+  <div class="post-card" data-cat="tech"><div class="pc-cover" style="background-image:url('assets/blog/the-promise-and-peril-of-generative-ai-should-re.jpg')"></div><div class="pc-body"><span class="pc-type t-essay">Essay</span><span class="pc-title">The Promise and Peril of Generative AI</span><span class="pc-src">2023</span></div></div>
+
+  <a class="post-card" data-cat="tech" href="https://www.livemint.com/opinion/online-views/nobel-laureate-robert-lucas-who-revolutionised-macroeconomics-dies-at-85-11684389204318.html" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/robert-lucas-the-nobel-laureate-who-revolutioniz.jpg')"></div><div class="pc-body"><span class="pc-type t-essay">Essay</span><span class="pc-title">Robert Lucas, the Nobel Laureate Who Revolutionised Macroeconomics</span><span class="pc-src">Mint · 2023</span></div></a>
+
+  <div class="post-card" data-cat="tech"><div class="pc-cover" style="background-image:url('assets/blog/shaping-the-future-with-trust-and-connectedness.jpg')"></div><div class="pc-body"><span class="pc-type t-essay">Essay</span><span class="pc-title">Shaping the Future with Trust and Connectedness</span><span class="pc-src">EAIE · 2023</span></div></div>
+
+  <div class="post-card" data-cat="highered"><div class="pc-cover" style="background-image:url('assets/blog/new-education-policy-gives-pride-of-place-to-res.jpg')"></div><div class="pc-body"><span class="pc-type t-media">TV</span><span class="pc-title">Budget 2023 and the Education Sector</span><span class="pc-src">Zee Business · 2023</span></div></div>
+
+  <a class="post-card" data-cat="money" href="assets/press-knee-jerks.jpg" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/press-knee-jerks.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Knee-Jerks Will Be Injurious</span><span class="pc-src">The Economic Times · 2022</span></div></a>
+
+  <div class="post-card" data-cat="budgets"><div class="pc-cover" style="background-image:url('assets/blog/freebies.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Freebies: What Should a Government Provide?</span><span class="pc-src">The Times of India · 2022</span></div></div>
+
+  <div class="post-card" data-cat="budgets"><div class="pc-cover" style="background-image:url('assets/blog/budget-2022-needed-a-balancing-act.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Budget 2022 Does Nothing to Alleviate the Problem of Skewed Income Distribution</span><span class="pc-src">MoneyControl · 2022</span></div></div>
+
+  <div class="post-card" data-cat="money"><div class="pc-cover" style="background-image:url('assets/blog/rbi-stay-the-course.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Inflation: Stay the Course</span><span class="pc-src">MoneyControl · 2022</span></div></div>
+
+
+  <div class="post-card" data-cat="money"><div class="pc-cover" style="background-image:url('assets/blog/why-rbi-s-inflation-forecasting-model-needs-to-b.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Comments on Global Inflation and the RBI</span><span class="pc-src">The Telegraph · 2022</span></div></div>
+
+  <div class="post-card" data-cat="highered"><div class="pc-cover" style="background-image:url('assets/blog/new-education-policy-gives-pride-of-place-to-res.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Educating India&#x27;s Youth is a Global Imperative</span><span class="pc-src">2022</span></div></div>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/can-manufacturing-be-the-messiah.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Can Manufacturing Be the Messiah? India&#x27;s Path to 2050</span><span class="pc-src">CNBC-TV18 · 2021</span></div></div>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-essay">Essay</span><span class="pc-title">Asia: Up for Change?</span><span class="pc-src">Next Trend Asia · 2022</span></div></div>
+
+  <div class="post-card" data-cat="budgets"><div class="pc-cover" style="background-image:url('assets/blog/budget-2023-will-boost-short-term-growth-short-o.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">What the Budget Can Do to Revive Growth</span><span class="pc-src">Business Standard · 2021</span></div></div>
+
+  <a class="post-card" data-cat="money" href="https://timesofindia.indiatimes.com/blogs/voices/globalisation-of-inflation-and-monetary-policy-making/" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/globalisation-of-inflation-and-monetary-policy-m.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Globalisation of Inflation and Monetary Policy Making</span><span class="pc-src">The Times of India · 2022</span></div></a>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/can-manufacturing-be-the-messiah.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">The Second Wave and the Indian Economy</span><span class="pc-src">The Hindu BusinessLine · 2021</span></div></div>
+
+  <a class="post-card" data-cat="growth" href="assets/press-hbl-covid.jpg" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/press-hbl-covid.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Why India is Losing its Grip over Covid</span><span class="pc-src">The Hindu BusinessLine · 2021</span></div></a>
+
+  <a class="post-card" data-cat="budgets" href="https://www.businesstoday.in/magazine/cover-story/budget-2020-fuelling-economic-growth/story/395453.html" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/budget-2022-needed-a-balancing-act.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Budget 2020: Fuelling Economic Growth</span><span class="pc-src">Business Today · 2020</span></div></a>
+
+  <div class="post-card" data-cat="money"><div class="pc-cover" style="background-image:url('assets/blog/the-future-of-finance-will-2021-see-spectacular-.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">How the Financial Sector Will Shape Up in 2021</span><span class="pc-src">The New Indian Express · 2020</span></div></div>
+
+  <div class="post-card" data-cat="trade"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-essay">Essay</span><span class="pc-title">Davos 2020: The Next Decade</span><span class="pc-src">Financial Express · 2020</span></div></div>
+
+  <a class="post-card" data-cat="growth" href="https://www.indiatoday.in/magazine/up-front/story/20200914-the-measure-of-a-lockdown-1718621-2020-09-05" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/lives-and-livelihood-an-exit-strategy-from-lockd.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">The Measure of a Lockdown</span><span class="pc-src">India Today · 2020</span></div></a>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/question-of-existence-liquidity-solvency-and-pol.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Question of Existence: Solvency, Not Liquidity, Should Be the Core of Policy Response for MSMEs</span><span class="pc-src">The Economic Times · 2020</span></div></div>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/question-of-existence-liquidity-solvency-and-pol.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Social Protection and the Global Pandemic</span><span class="pc-src">2020</span></div></div>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/can-manufacturing-be-the-messiah.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">The Future of Work From Home</span><span class="pc-src">2020</span></div></div>
+
+  <div class="post-card" data-cat="highered"><div class="pc-cover" style="background-image:url('assets/blog/new-education-policy-gives-pride-of-place-to-res.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">New Education Policy Gives Pride of Place to Research in Universities</span><span class="pc-src">The Hindu BusinessLine · 2020</span></div></div>
+
+  <div class="post-card" data-cat="highered"><div class="pc-cover" style="background-image:url('assets/blog/new-education-policy-gives-pride-of-place-to-res.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">The Draft NEP and the Classification of Universities</span><span class="pc-src">Business World · 2020</span></div></div>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/lives-and-livelihood-an-exit-strategy-from-lockd.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Can We Prevent the Economic Flood?</span><span class="pc-src">The Economic Times · 2019</span></div></div>
+
+  <a class="post-card" data-cat="budgets" href="https://www.businesstoday.in/budget-2019/columns/budget-2019-factors-that-might-impact-future-of-the-economy/story/315607.html" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/budget-2023-will-boost-short-term-growth-short-o.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Union Budget 2019: What Might Shape the Economy</span><span class="pc-src">Business Today · 2019</span></div></a>
+
+  <a class="post-card" data-cat="trade" href="https://www.financialexpress.com/economy/need-of-economic-power-in-an-era-of-trade-war/1744855/" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">The Need for Economic Power in an Era of Trade War</span><span class="pc-src">Financial Express · 2019</span></div></a>
+
+  <a class="post-card" data-cat="highered" href="https://www.moneycontrol.com/news/trends/expert-columns-2/capacity-and-quality-of-higher-education-need-to-be-transformed-4252391.html" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/new-education-policy-gives-pride-of-place-to-res.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Capacity and Quality of Higher Education Must Be Transformed</span><span class="pc-src">Moneycontrol · 2019</span></div></a>
+
+  <a class="post-card" data-cat="growth" href="assets/press-clarity-home.jpg" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/press-clarity-home.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Clarity Begins at Home</span><span class="pc-src">The Economic Times · 2019</span></div></a>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/question-of-existence-liquidity-solvency-and-pol.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Reforms: Past, Present and Future</span><span class="pc-src">2018</span></div></div>
+
+  <a class="post-card" data-cat="trade" href="https://economictimes.indiatimes.com/news/economy/foreign-trade/view-protectionism-will-only-mar-an-economy-like-india-not-make-it/articleshow/63753410.cms" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Globalization, Protectionism and Growth</span><span class="pc-src">The Economic Times · 2018</span></div></a>
+
+  <div class="post-card" data-cat="growth"><div class="pc-cover" style="background-image:url('assets/blog/can-manufacturing-be-the-messiah.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Shocks and Policies: The Year Ahead</span><span class="pc-src">2017</span></div></div>
+
+  <div class="post-card" data-cat="budgets"><div class="pc-cover" style="background-image:url('assets/blog/budget-2022-needed-a-balancing-act.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">GST, the States, and the Federal Bargain</span><span class="pc-src">The Economic Times · 2017</span></div></div>
+
+  <a class="post-card" data-cat="money" href="https://qrius.com/tale-banking-decisions-gone-awry/" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/rbi-stay-the-course.jpg')"></div><div class="pc-body"><span class="pc-type t-oped">Op-ed</span><span class="pc-title">Bad Decisions and Bad Debt</span><span class="pc-src">Qrius · 2016</span></div></a>
+
+  <a class="post-card" data-cat="trade" href="http://www.businessinsider.in/The-radical-changes-the-world-will-face-post-Trump-and-Brexit/articleshow/55476240.cms" target="_blank" rel="noopener"><div class="pc-cover" style="background-image:url('assets/blog/asia-up-for-change.jpg')"></div><div class="pc-body"><span class="pc-type t-essay">Essay</span><span class="pc-title">The World After Trump and Brexit</span><span class="pc-src">Business Insider · 2016</span></div></a>
+
+</div>
+
+<p style="margin-top:2rem;color:#857c70;font-size:0.95rem;">More on my <a href="https://www.youtube.com/@ParthaChatterjeeS" target="_blank" rel="noopener">YouTube channel</a> and <a href="https://www.linkedin.com/in/pchatterjee/" target="_blank" rel="noopener">LinkedIn</a>.</p>
+
+<script>
+document.querySelectorAll('.cat-chip').forEach(function (chip) {
+  chip.addEventListener('click', function () {
+    document.querySelectorAll('.cat-chip').forEach(function (c) { c.classList.remove('active'); });
+    chip.classList.add('active');
+    var cat = chip.getAttribute('data-cat');
+    document.querySelectorAll('.post-grid .post-card').forEach(function (card) {
+      card.style.display = (cat === 'all' || card.getAttribute('data-cat') === cat) ? '' : 'none';
+    });
+  });
+});
+</script>
+```

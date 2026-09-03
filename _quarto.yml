@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+
+website:
+  title: "Partha Chatterjee"
+  description: "Macroeconomist and educator — Dean of Academics and Professor of Economics, Shiv Nadar University, Delhi-NCR."
+  site-url: https://www.parthachatterjee.net
+  favicon: assets/favicon.svg
+  navbar:
+    title: "Partha Chatterjee"
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: economics.qmd
+        text: Economics
+      - href: higher-education.qmd
+        text: Higher Education
+      - href: writing.qmd
+        text: Commentary
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: envelope
+        href: mailto:partha.chatterjee@snu.edu.in
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pchatterjee/
+        aria-label: LinkedIn
+      - icon: twitter-x
+        href: https://x.com/p_chatterjee
+        aria-label: X (Twitter)
+      - icon: youtube
+        href: https://www.youtube.com/@ParthaChatterjeeS
+        aria-label: YouTube
+  page-footer:
+    left: "© 2026 Partha Chatterjee"
+    center: "[Speaking](speaking.qmd) · [Commentary](writing.qmd) · [Contact](contact.qmd)"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 920px

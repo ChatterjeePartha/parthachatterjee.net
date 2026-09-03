@@ -1,0 +1,50 @@
+---
+title: "Get in touch"
+pagetitle: "Contact — Partha Chatterjee"
+description: "Invite Partha Chatterjee to speak, commission a piece of writing, or enquire about advisory work."
+---
+
+::: {.lead}
+Whether you're planning an event, commissioning a column, exploring an advisory engagement, or just want to talk economics and education — I'd be glad to hear from you.
+:::
+
+## Send a message
+
+```{=html}
+<!-- Form posts to Formspree. Create a free form at https://formspree.io, then replace
+     YOUR_FORM_ID below with your form's ID (e.g. https://formspree.io/f/abcdwxyz). -->
+<form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <div class="cf-row">
+    <label>Name<input type="text" name="name" required></label>
+    <label>Email<input type="email" name="email" required></label>
+  </div>
+  <label>What's this about?
+    <select name="topic">
+      <option>Speaking invitation</option>
+      <option>Writing / commentary</option>
+      <option>Advisory enquiry</option>
+      <option>Media / interview</option>
+      <option>Something else</option>
+    </select>
+  </label>
+  <label>Message<textarea name="message" rows="5" required></textarea></label>
+  <button type="submit" class="btn-primary-cta">Send message</button>
+</form>
+```
+
+Prefer email? Write to me directly at
+[partha.chatterjee@snu.edu.in](mailto:partha.chatterjee@snu.edu.in) — for speaking, the more you can tell me about your **audience, theme, and date**, the better.
+
+## Advisory
+
+I take on a small number of advisory engagements with institutions and organizations on economic strategy and higher-education transformation. If that's of interest, mention it in your message and I'll be in touch.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/pchatterjee/)
+- [X (Twitter)](https://x.com/p_chatterjee)
+- [YouTube](https://www.youtube.com/@ParthaChatterjeeS)
+
+::: {.muted-note}
+University office: Department of Economics, Shiv Nadar University, Delhi-NCR, Greater Noida, Uttar Pradesh 201314, India.
+:::

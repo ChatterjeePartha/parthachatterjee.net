@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "4848",
+        "--directory",
+        "/Users/shss-partha-01/Library/CloudStorage/Dropbox/Claude working folder/parthachatterjee.net/_site"
+      ],
+      "port": 4848
+    }
+  ]
+}

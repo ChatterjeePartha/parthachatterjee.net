@@ -1,0 +1,107 @@
+---
+title: "Economics"
+pagetitle: "Economics & Research — Partha Chatterjee"
+description: "Research in macroeconomics and international economics, focused on how emerging economies become developed."
+---
+
+::: {.lead}
+My work as an economist returns to a single question: **how does an emerging economy become a developed one?** It is the defining economic challenge of our time for India and much of the world — and it runs through everything I study, from growth and productivity to trade, monetary policy, and the workings of the labor market.
+:::
+
+I am a macroeconomist who works with data and dynamic models. My research spans macroeconomics, international economics, and the structural questions facing emerging economies, with a particular focus on India.
+
+## Current focus: why so many Indians — and most women — are not at work
+
+In recent work with **Aakash Dev**, I ask why nearly half of working-age Indians, and roughly three out of four women, remain outside the labor force. We calibrate a joint household search model to Indian data and find that two forces, usually studied apart, compound one another.
+
+```{=html}
+<div class="stat-cards">
+  <div class="stat-figure c-coral"><div class="n">3 in 4</div><div class="l">working-age women are not in the labor force</div></div>
+  <div class="stat-figure c-teal"><div class="n">~9 hrs</div><div class="l">a day women spend on unpaid household work — men, a fraction</div></div>
+  <div class="stat-figure c-blue"><div class="n">45 / 35 / 20</div><div class="l">share of the gap: household burden · market frictions · their interaction</div></div>
+</div>
+
+<div class="figure-box">
+  <p class="fig-title">Chance of finding a job in any four-month window</p>
+  <div class="barchart">
+    <div class="bar-row">
+      <span class="bar-label">Men</span>
+      <span class="bar-track"><span class="bar-fill c-blue" style="width:96%"></span></span>
+      <span class="bar-val c-blue">~24%</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">Women</span>
+      <span class="bar-track"><span class="bar-fill c-coral" style="width:28%"></span></span>
+      <span class="bar-val c-coral">&lt;7%</span>
+    </div>
+  </div>
+  <p class="cap">A woman's job-finding odds are roughly a third of a man's — so her opportunity cost of working is nearly double, quietly disqualifying most jobs on offer.</p>
+</div>
+```
+
+The interaction is the point: because the two forces reinforce each other, no single policy can close the gap. This work was the basis of my keynote at the LEO Economics Conference 2026.
+
+## Research themes
+
+```{=html}
+<div class="icon-cards">
+  <div class="icon-card c-blue">
+    <i class="bi bi-graph-up-arrow"></i>
+    <h4>Growth &amp; productivity</h4>
+    <p>What drives productivity at the level of firms and plants — and how structural reform reshapes it.</p>
+  </div>
+  <div class="icon-card c-teal">
+    <i class="bi bi-globe2"></i>
+    <h4>Trade &amp; diversification</h4>
+    <p>How openness, convergence, and diversification interact in a growing economy.</p>
+  </div>
+  <div class="icon-card c-coral">
+    <i class="bi bi-people"></i>
+    <h4>Labor markets</h4>
+    <p>How people move into and out of work — and why so many, especially women, never enter at all.</p>
+  </div>
+  <div class="icon-card c-blue">
+    <i class="bi bi-bank"></i>
+    <h4>Money &amp; fiscal policy</h4>
+    <p>Business-cycle accounting for India, and the design of taxation in a federation.</p>
+  </div>
+</div>
+```
+
+## Published & forthcoming
+
+::: {.entry-list}
+
+**Labour Market Dynamics and Worker Flows in India: Impact of Covid-19** (with Aakash Dev). *The Indian Journal of Labour Economics*, 2023.
+
+**Impact of COVID-19 on Manufacturing Industries in India: Networks and Trade Dependence** (with Shweta Jain). In *The COVID-19 Pandemic, India and the World: Economic and Social Policy Perspectives*, Routledge, 2021.
+
+**A Monetary Business Cycle Accounting Analysis of the Indian Economy** (with Kshitiz Mishra). *Journal of Quantitative Economics*, 2021, Vol. 19, pp. 471–491.
+
+**Lives and Livelihoods: An Exit Strategy from Lockdown for India** (with Soma Dey and Shweta Jain). *Economic & Political Weekly*, 30 May 2020, Vol. 55, Issue 22.
+
+**A Stochastic Dynamic Model of Trade and Growth: Convergence and Diversification** (with Malik Shukayev). *Journal of Economic Dynamics and Control*, 2012, Vol. 36(3), pp. 416–432.
+
+**A Note on a Positive Lower Bound of Capital in the Stochastic Growth Model** (with Malik Shukayev). *Journal of Economic Dynamics and Control*, 2008, Vol. 32(7), pp. 2137–2147.
+
+:::
+
+## Working papers & work in progress
+
+::: {.entry-list}
+
+**Did Economic Reforms Affect Manufacturing Productivity in India?** (with Shweta Jain). Working paper.
+
+**Evolution of the Distribution of Plant-Level Productivity** (with Shweta Jain). Working paper.
+
+**Households, Frictions, and the Gender Gap: A Search Model of Labor Force Participation in India** (with Aakash Dev). Work in progress.
+
+**Optimal Taxation in a Federation and the GST in India** (with Trishita Ray Barman). Working paper.
+
+**Democracy and Growth Volatility: Exploring the Links** (with Malik Shukayev).
+
+**Are Average Growth Rate and Volatility Related?** (with Malik Shukayev).
+
+:::
+
+<!-- Tip: add links to PDFs, journal pages, or repositories (NBER, SSRN, RePEc) for each entry. -->
