@@ -1,6 +1,6 @@
 ---
 title: "Higher Education"
-pagetitle: "Higher Education & Institution-Building — Partha Chatterjee"
+pagetitle: "Higher Education & Institution-Building"
 description: "Building universities, leading academic strategy, and reshaping higher education in India."
 ---
 

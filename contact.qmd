@@ -1,6 +1,6 @@
 ---
 title: "Get in touch"
-pagetitle: "Contact — Partha Chatterjee"
+pagetitle: "Contact"
 description: "Invite Partha Chatterjee to speak, commission a piece of writing, or enquire about advisory work."
 ---
 

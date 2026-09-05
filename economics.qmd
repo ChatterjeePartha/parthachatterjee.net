@@ -1,6 +1,6 @@
 ---
 title: "Economics"
-pagetitle: "Economics & Research — Partha Chatterjee"
+pagetitle: "Economics & Research"
 description: "Research in macroeconomics and international economics, focused on how emerging economies become developed."
 ---
 

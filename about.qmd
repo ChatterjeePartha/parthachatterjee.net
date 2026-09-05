@@ -1,6 +1,5 @@
 ---
 title: "About"
-pagetitle: "About — Partha Chatterjee"
 description: "Partha Chatterjee — economist and educator, Dean of Academics at Shiv Nadar University. From physics to economics to building institutions."
 ---
 

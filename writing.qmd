@@ -1,6 +1,6 @@
 ---
 title: "Commentary"
-pagetitle: "Commentary — Op-eds, Essays, Podcasts & TV — Partha Chatterjee"
+pagetitle: "Commentary — Op-eds, Essays, Podcasts & TV"
 description: "A decade of op-eds, essays, podcasts, and broadcast commentary by Partha Chatterjee on the economy, policy, and the future of higher education."
 page-layout: full
 toc: false
