@@ -1,5 +1,5 @@
 ---
-pagetitle: "Partha Chatterjee — Economist & Educator"
+pagetitle: "Economist & Educator"
 description: "Partha Chatterjee — economist and educator, Dean of Academics and Professor of Economics at Shiv Nadar University. He writes and speaks on the economy, emerging markets, and the future of education."
 page-layout: custom
 toc: false
