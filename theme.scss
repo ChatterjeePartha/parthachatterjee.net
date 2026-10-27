@@ -217,7 +217,7 @@ a:hover { text-decoration: underline; }
 .section .eyebrow {
   text-transform: uppercase;
   letter-spacing: 0.16em;
-  font-size: 0.76rem;
+  font-size: 0.72rem;
   font-weight: 600;
   color: $accent;
   text-align: center;
@@ -304,7 +304,7 @@ a:hover { text-decoration: underline; }
 .spot-text .eyebrow {
   text-transform: uppercase;
   letter-spacing: 0.16em;
-  font-size: 0.74rem;
+  font-size: 0.72rem;
   font-weight: 700;
   color: rgba(255, 255, 255, 0.85);
   margin-bottom: 0.6rem;
@@ -362,7 +362,7 @@ a:hover { text-decoration: underline; }
 .feature-card .outlet {
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   font-weight: 700;
   color: $accent;
 }
@@ -510,7 +510,7 @@ a:hover { text-decoration: underline; }
   font-size: 1.9rem; font-weight: 700; line-height: 1.05;
   color: var(--pc, #{$accent});
 }
-.stat-figure .l { font-size: 0.88rem; color: $muted; margin-top: 0.4rem; line-height: 1.35; }
+.stat-figure .l { font-size: 0.9rem; color: $muted; margin-top: 0.4rem; line-height: 1.35; }
 
 /* Icon cards (themes, programmes, topics) */
 .icon-cards {
@@ -531,8 +531,8 @@ a:hover { text-decoration: underline; }
   background: var(--pc, #{$accent}); margin-bottom: 0.75rem;
   box-shadow: 0 5px 14px rgba(22, 24, 29, 0.13);
 }
-.icon-card h4 { font-family: $headings-font-family; font-weight: 600; margin: 0 0 0.35rem; font-size: 1.12rem; color: $ink; }
-.icon-card p { margin: 0; font-size: 0.95rem; color: $muted; line-height: 1.5; }
+.icon-card h4 { font-family: $headings-font-family; font-weight: 600; margin: 0 0 0.35rem; font-size: 1.15rem; color: $ink; }
+.icon-card p { margin: 0; font-size: 0.9rem; color: $muted; line-height: 1.5; }
 
 /* Milestone timeline */
 .timeline { position: relative; margin: 1.5rem 0 2.2rem; padding-left: 1.5rem; border-left: 2px solid $line; }
@@ -563,7 +563,7 @@ a:hover { text-decoration: underline; }
 
 /* Figure box (charts) */
 .figure-box { background: #fff; border: 1px solid $line; border-radius: 10px; padding: 1.5rem 1.6rem; margin: 1.6rem 0 2.2rem; }
-.figure-box .fig-title { font-family: $headings-font-family; font-weight: 600; font-size: 1.05rem; color: $ink; margin: 0 0 1rem; }
+.figure-box .fig-title { font-family: $headings-font-family; font-weight: 600; font-size: 1.15rem; color: $ink; margin: 0 0 1rem; }
 .figure-box .cap { font-size: 0.82rem; color: $muted; margin-top: 0.9rem; }
 
 /* Simple horizontal bar chart */
@@ -571,7 +571,7 @@ a:hover { text-decoration: underline; }
 .barchart .bar-label { font-size: 0.9rem; color: $ink; }
 .barchart .bar-track { display: block; background: $wash; border-radius: 6px; height: 1.6rem; overflow: hidden; }
 .barchart .bar-fill { display: block; height: 100%; border-radius: 6px; background: var(--pc, #{$accent}); transition: width 0.6s ease; }
-.barchart .bar-val { font-weight: 700; font-size: 0.92rem; color: var(--pc, #{$accent}); text-align: right; }
+.barchart .bar-val { font-weight: 700; font-size: 0.9rem; color: var(--pc, #{$accent}); text-align: right; }
 
 /* Floated portrait (About) */
 .about-portrait {
@@ -610,12 +610,12 @@ a:hover { text-decoration: underline; }
 /* Captioned media figure (event photos, broadcast screenshots) */
 .media-figure { margin: 1.6rem 0 2rem; }
 .media-figure img { width: 100%; border-radius: 10px; border: 1px solid $line; display: block; box-shadow: 0 10px 24px rgba(22,24,29,0.12); }
-.media-figure figcaption { font-size: 0.85rem; color: $muted; margin-top: 0.6rem; }
+.media-figure figcaption { font-size: 0.82rem; color: $muted; margin-top: 0.6rem; }
 
 /* Right-floated figure (report covers, etc.) */
 .figure-right { float: right; width: 230px; margin: 0.3rem 0 1.1rem 1.6rem; }
 .figure-right img { width: 100%; border-radius: 9px; border: 1px solid $line; display: block; box-shadow: 0 10px 24px rgba(22,24,29,0.14); }
-.figure-right figcaption { font-size: 0.8rem; color: $muted; margin-top: 0.5rem; text-align: center; }
+.figure-right figcaption { font-size: 0.82rem; color: $muted; margin-top: 0.5rem; text-align: center; }
 
 @media (max-width: 700px) {
   .figure-right { float: none; width: 70%; margin: 0 auto 1.4rem; }
