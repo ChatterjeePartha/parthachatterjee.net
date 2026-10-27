@@ -621,6 +621,14 @@ a:hover { text-decoration: underline; }
   .figure-right { float: none; width: 70%; margin: 0 auto 1.4rem; }
 }
 
+/* Two-up photo / poster gallery (event conversations, series posters) */
+.photo-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1.4rem 0 2rem; }
+.photo-row figure { margin: 0; }
+.photo-row img { width: 100%; border-radius: 10px; border: 1px solid $line; display: block; box-shadow: 0 10px 24px rgba(22,24,29,0.12); }
+.photo-row.photos img { aspect-ratio: 3 / 2; object-fit: cover; }
+.photo-row figcaption { font-size: 0.82rem; color: $muted; margin-top: 0.5rem; }
+@media (max-width: 640px) { .photo-row { grid-template-columns: 1fr; } }
+
 /* ============================================================
    WARM / PERSONAL LAYER (Hira-inspired)
    ============================================================ */

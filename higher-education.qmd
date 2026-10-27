@@ -29,7 +29,6 @@ As the inaugural **Dean for International Partnerships**, I set up the universit
 
 - **2+2 dual degrees with Arizona State University** — a STEM-designated **B.S. in Business Data Analytics** (the first of its kind in India) and a **B.S. in Computer Science**, with students spending two years at SNU and two at ASU's W. P. Carey School.
 - A **€1.17M EU-funded project** on higher-education quality enhancement.
-- The **Beyond Boundaries** series, convening global academic leaders for public conversations.
 
 ```{=html}
 <div class="badges">
@@ -37,6 +36,40 @@ As the inaugural **Dean for International Partnerships**, I set up the universit
   <span class="badge-chip">UC Berkeley — CSHE</span>
   <span class="badge-chip">IC3 Institute</span>
   <span class="badge-chip">European Union</span>
+</div>
+```
+
+### Beyond Boundaries — global conversations
+
+During the pandemic, as Dean for International Partnerships, I conceived and hosted **Beyond Boundaries**, a public dialogue series that brought leading voices in academia and policy to a wide online audience, on the economy, education, and global collaboration in an uncertain world. Interlocutors included the **Provost of the University of Chicago**, a **Cambridge** professor of international education, chancellors from **UC Berkeley** and **Vanderbilt**, and the economist **V. V. Chari** (University of Minnesota), with audiences joining from more than 20 countries.
+
+```{=html}
+<div class="photo-row">
+  <figure>
+    <img src="assets/bb-chicago.jpg" alt="Beyond Boundaries 2.0 session with the Provost of the University of Chicago">
+    <figcaption>Beyond Boundaries 2.0 — with the Provost of the University of Chicago, on why global collaboration matters in an uncertain world.</figcaption>
+  </figure>
+  <figure>
+    <img src="assets/bb-cambridge.jpg" alt="Beyond Boundaries 2.0 session with a professor from the University of Cambridge">
+    <figcaption>Beyond Boundaries 2.0 — with a Cambridge professor of international education, on education inequality in the post-pandemic world.</figcaption>
+  </figure>
+</div>
+```
+
+### In conversation with global thinkers
+
+Through the university's flagship **Synapse Conclave**, I have hosted public conversations that bring global thinkers into dialogue with our students. In 2024 I spoke with **Thomas L. Friedman** on globalization, geopolitics, and India's place in the world economy; in 2025, with the award-winning author **Ken Liu** on storytelling, technology, imagination, and AI.
+
+```{=html}
+<div class="photo-row photos">
+  <figure>
+    <img src="assets/synapse-friedman.jpg" alt="Partha Chatterjee in conversation with Thomas L. Friedman at Synapse Conclave 2024">
+    <figcaption>In conversation with Thomas L. Friedman — Synapse Conclave, 2024.</figcaption>
+  </figure>
+  <figure>
+    <img src="assets/synapse-kenliu.jpg" alt="Partha Chatterjee in conversation with Ken Liu at Synapse Conclave 2025">
+    <figcaption>In conversation with Ken Liu — Synapse Conclave, 2025.</figcaption>
+  </figure>
 </div>
 ```
 
