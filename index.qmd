@@ -82,9 +82,9 @@ toc: false
     <p class="section-sub">A little of what I've been thinking about lately.</p>
     <div class="feature-grid">
 
-      <a class="feature-card" href="https://www.thecore.in/podcasts/indias-missing-middle-is-holding-back-prosperity-868573">
-        <div class="outlet">The Core &middot; Podcast</div>
-        <h4>India&rsquo;s missing middle is holding back prosperity</h4>
+      <a class="feature-card" href="https://www.thehindu.com/podcast/nobel-economics-prize-2026-how-can-hall-and-woodfords-ideas-help-tackle-todays-economic-challenges-in-focus-podcast/article71607581.ece">
+        <div class="outlet">The Hindu &middot; In Focus Podcast</div>
+        <h4>Decoding the 2026 Nobel in Economics</h4>
       </a>
 
       <a class="feature-card" href="https://www.fortuneindia.com/opinion/the-hedge-thats-quietly-breaking/148683">
